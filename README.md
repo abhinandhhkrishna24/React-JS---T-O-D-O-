@@ -1,4 +1,9 @@
 # Todo React
+
+## Screenshots
+
+These screenshots provide a glimpse into the Todo React application's functionality:
+
 ![Screenshot 1: Adding a New Task](screenshots/sc-1.png)  ![Screenshot 2: Managing Tasks](screenshots/sc-2.png)  
 
 
@@ -21,7 +26,5 @@ Todo React is a simple and user-friendly todo list application built using React
     - Utilizes JavaScript for robust functionality.
     - Employs HTML and CSS to deliver a clean and aesthetically pleasing interface.
 
-## Screenshots
 
-These screenshots provide a glimpse into the Todo React application's functionality:
 
